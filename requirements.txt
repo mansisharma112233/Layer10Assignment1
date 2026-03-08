@@ -1,0 +1,23 @@
+# Corpus fetching
+requests>=2.31.0
+# LLM extraction
+google-generativeai>=0.8.0
+# Graph & data
+networkx>=3.2
+# Persistence
+# (sqlite3 is built-in)
+# Embeddings & retrieval
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+# API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+# Visualization
+streamlit>=1.29.0
+pyvis>=0.3.2
+# Utilities
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+pandas>=2.1.0

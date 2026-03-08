@@ -1,0 +1,2773 @@
+[
+  {
+    "question": "What is React Suspense and how does it work?",
+    "entities": [
+      {
+        "id": "component:react",
+        "name": "React",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": []
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            },
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": [
+                                  {
+                                    "action": "entity_merge",
+                                    "canonical_id": "component:react",
+                                    "merged_id": "component:react",
+                                    "merged_name": "React",
+                                    "method": "exact_id_match",
+                                    "canonical_state_before": {
+                                      "id": "component:react",
+                                      "name": "React",
+                                      "entity_type": "component",
+                                      "aliases": [],
+                                      "properties": {},
+                                      "first_seen": "",
+                                      "last_seen": "",
+                                      "merge_history": []
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "created_at": "2026-03-08T15:01:58.301920",
+        "updated_at": "2026-03-08T15:01:58.301920",
+        "relevance_score": 1.8959886729717255
+      },
+      {
+        "id": "feature:fundamental-improvements-to-react",
+        "name": "Fundamental improvements to React",
+        "entity_type": "feature",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304031",
+        "updated_at": "2026-03-08T15:01:58.304031",
+        "relevance_score": 1.8813168108463287
+      },
+      {
+        "id": "feature:react-fire",
+        "name": "React Fire",
+        "entity_type": "feature",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304023",
+        "updated_at": "2026-03-08T15:01:58.304023",
+        "relevance_score": 1.8811736702919006
+      },
+      {
+        "id": "team:react-community",
+        "name": "React Community",
+        "entity_type": "team",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303402",
+        "updated_at": "2026-03-08T15:01:58.303402",
+        "relevance_score": 1.8466020226478577
+      },
+      {
+        "id": "team:react-team",
+        "name": "team:react-team",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {
+          "placeholder": true
+        },
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.309261",
+        "updated_at": "2026-03-08T15:01:58.309261",
+        "relevance_score": 1.5
+      }
+    ],
+    "claims": [
+      {
+        "id": "claim:technical_fact:component:react:c7671ab6",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "component:react",
+        "object_entity_id": "person:cem2ran",
+        "relation_type": "related_to",
+        "content": "React changed the way cem2ran views UI programming and Open Source.",
+        "confidence": "high",
+        "temporal_status": "historical",
+        "valid_from": "2017-12-31T22:14:59Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.308159",
+        "updated_at": "2026-03-08T15:01:58.308159",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 146,
+            "claim_id": "claim:technical_fact:component:react:c7671ab6",
+            "source_id": "github-comment-354625915",
+            "source_type": "comment",
+            "excerpt": "You have changed the way I view UI programming and Open Source <3",
+            "url": "https://github.com/facebook/react/issues/11940",
+            "timestamp": "2017-12-31T22:06:22Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:technical_fact:feature:fragment-api:312ff7a1",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "feature:fragment-api",
+        "object_entity_id": "component:react",
+        "relation_type": "part_of",
+        "content": "The fragment API is a hard problem with React's current architecture.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2014-09-02T00:58:45Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.313550",
+        "updated_at": "2026-03-08T15:01:58.313550",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 394,
+            "claim_id": "claim:technical_fact:feature:fragment-api:312ff7a1",
+            "source_id": "github-issue-facebook/react-2127",
+            "source_type": "issue",
+            "excerpt": "We want this too but it is a _hard problem_ with our current architecture.",
+            "url": "https://github.com/facebook/react/issues/2127",
+            "timestamp": "2014-09-02T00:58:45Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:proposal:feature:react-fire:012a991e",
+        "claim_type": "proposal",
+        "subject_entity_id": "feature:react-fire",
+        "object_entity_id": "component:react-dom",
+        "relation_type": null,
+        "content": "React Fire is an effort to modernize React DOM.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2018-08-31T19:45:53Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.309318",
+        "updated_at": "2026-03-08T15:01:58.309318",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 196,
+            "claim_id": "claim:proposal:feature:react-fire:012a991e",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "We're calling this effort \"React Fire\".",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          },
+          {
+            "id": 197,
+            "claim_id": "claim:proposal:feature:react-fire:012a991e",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "**React Fire** is an effort to modernize React DOM.",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:technical_fact:component:react:cd644ee8",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "component:react",
+        "object_entity_id": "person:jb3",
+        "relation_type": "related_to",
+        "content": "React was one of the first JavaScript frameworks jb3 looked at.",
+        "confidence": "high",
+        "temporal_status": "historical",
+        "valid_from": "2017-12-31T22:14:04Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.307851",
+        "updated_at": "2026-03-08T15:01:58.307851",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 134,
+            "claim_id": "claim:technical_fact:component:react:cd644ee8",
+            "source_id": "github-comment-354625879",
+            "source_type": "comment",
+            "excerpt": "React was one of the first JavaScript frameworks I looked at!",
+            "url": "https://github.com/facebook/react/issues/11940",
+            "timestamp": "2017-12-31T22:06:22Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:technical_fact:feature:react-fire:b8596fbb",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "feature:react-fire",
+        "object_entity_id": null,
+        "relation_type": null,
+        "content": "Some changes in React Fire will be breaking.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2018-08-31T19:45:53Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.309436",
+        "updated_at": "2026-03-08T15:01:58.309436",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 202,
+            "claim_id": "claim:technical_fact:feature:react-fire:b8596fbb",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "We want to ship this set of changes in a future React major release because some of them will unfortunately be breaking.",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      }
+    ],
+    "evidence_snippets": [
+      {
+        "claim_id": "claim:technical_fact:component:react:c7671ab6",
+        "claim_content": "React changed the way cem2ran views UI programming and Open Source.",
+        "source_id": "github-comment-354625915",
+        "excerpt": "You have changed the way I view UI programming and Open Source <3",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:fragment-api:312ff7a1",
+        "claim_content": "The fragment API is a hard problem with React's current architecture.",
+        "source_id": "github-issue-facebook/react-2127",
+        "excerpt": "We want this too but it is a _hard problem_ with our current architecture.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:proposal:feature:react-fire:012a991e",
+        "claim_content": "React Fire is an effort to modernize React DOM.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "We're calling this effort \"React Fire\".",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:proposal:feature:react-fire:012a991e",
+        "claim_content": "React Fire is an effort to modernize React DOM.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "**React Fire** is an effort to modernize React DOM.",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:component:react:cd644ee8",
+        "claim_content": "React was one of the first JavaScript frameworks jb3 looked at.",
+        "source_id": "github-comment-354625879",
+        "excerpt": "React was one of the first JavaScript frameworks I looked at!",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:react-fire:b8596fbb",
+        "claim_content": "Some changes in React Fire will be breaking.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "We want to ship this set of changes in a future React major release because some of them will unfortunately be breaking.",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:agreement:person:jeremenichelli:7fd07ba6",
+        "claim_content": "jeremenichelli agrees that React shouldn't worry about consumers knowing whether an element has implemented something as a property or an attribute.",
+        "source_id": "github-comment-339064822",
+        "excerpt": "That's not something React should worry as Rob said in my opinion, it's the custom element author's responsability to inform the user how the element works.",
+        "url": "https://github.com/facebook/react/issues/11347",
+        "timestamp": "2017-10-24T05:28:49Z"
+      },
+      {
+        "claim_id": "claim:proposal:person:gabegreenberg:ccd34f3e",
+        "claim_content": "gabegreenberg invited the React community to reply to the thread with 'thank you' comments to the team at Facebook.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "We\u2019d like to invite the React community to reply to this thread with your own \u201cthank you\u201d comments to the team at Facebook.",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:component:react:f93e1fec",
+        "claim_content": "React allowed VictorJozwicki to grow as a developer.",
+        "source_id": "github-comment-354625908",
+        "excerpt": "And it allowed me to grow a little bit more as a dev.",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:component:react:ff299909",
+        "claim_content": "React depends on `requestAnimationFrame` (even in test environments).",
+        "source_id": "github-issue-facebook/react-10294",
+        "excerpt": "React also depends on `requestAnimationFrame` (even in test environments).",
+        "url": "https://github.com/facebook/react/issues/10294",
+        "timestamp": "2017-07-26T20:05:32Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:component:React:30718fea",
+        "claim_content": "React tries to run in isolation to allow multiple React instances in the same global context.",
+        "source_id": "github-comment-433629397",
+        "excerpt": "AFAIK we try to run React in isolation as much as possible so that multiple React instances can work in the same global context without issues.",
+        "url": "https://github.com/facebook/react/issues/13991",
+        "timestamp": "2018-10-27T00:34:08Z"
+      }
+    ],
+    "conflicts": [
+      {
+        "subject": "component:react",
+        "claim_type": "technical_fact",
+        "current": "React depends on `requestAnimationFrame` (even in test environments).",
+        "historical": "React changed the way cem2ran views UI programming and Open Source."
+      }
+    ],
+    "summary": "Found 5 relevant entities: React, Fundamental improvements to React, React Fire, React Community, team:react-team. Retrieved 5 claims with 11 evidence snippets. Detected 1 conflicting claim(s).",
+    "generated_at": "2026-03-08T15:02:13.439887"
+  },
+  {
+    "question": "Who are the main contributors and what do they work on?",
+    "entities": [
+      {
+        "id": "team:open-source-contributors",
+        "name": "Open-Source Contributors",
+        "entity_type": "team",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303515",
+        "updated_at": "2026-03-08T15:01:58.303515",
+        "relevance_score": 2.146305561065674
+      },
+      {
+        "id": "team:react-maintainers",
+        "name": "React maintainers",
+        "entity_type": "team",
+        "aliases": [
+          "maintainers"
+        ],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.305297",
+        "updated_at": "2026-03-08T15:01:58.305297",
+        "relevance_score": 1.5
+      },
+      {
+        "id": "person:dmitrif",
+        "name": "dmitrif",
+        "entity_type": "person",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303786",
+        "updated_at": "2026-03-08T15:01:58.303786",
+        "relevance_score": 0.2989345192909241
+      },
+      {
+        "id": "person:gabegreenberg",
+        "name": "gabegreenberg",
+        "entity_type": "person",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303231",
+        "updated_at": "2026-03-08T15:01:58.303231",
+        "relevance_score": 0.2580074667930603
+      },
+      {
+        "id": "component:react-documentation",
+        "name": "React documentation",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.305249",
+        "updated_at": "2026-03-08T15:01:58.305249",
+        "relevance_score": 0.25712472200393677
+      }
+    ],
+    "claims": [
+      {
+        "id": "claim:agreement:person:arthurdenner:b330646c",
+        "claim_type": "agreement",
+        "subject_entity_id": "person:arthurdenner",
+        "object_entity_id": "team:open-source-contributors",
+        "relation_type": "related_to",
+        "content": "arthurdenner thanked all open-source contributors.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2017-12-31T22:13:23Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.307749",
+        "updated_at": "2026-03-08T15:01:58.307749",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 130,
+            "claim_id": "claim:agreement:person:arthurdenner:b330646c",
+            "source_id": "github-comment-354625851",
+            "source_type": "comment",
+            "excerpt": "Thank you! Not only the React team, but to all the open-source contributors. \ud83c\udf89\ud83d\udc93",
+            "url": "https://github.com/facebook/react/issues/11940",
+            "timestamp": "2017-12-31T22:06:22Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5304597616195679
+      },
+      {
+        "id": "claim:feature_request:person:gabssnake:b803cf2a",
+        "claim_type": "feature_request",
+        "subject_entity_id": "person:gabssnake",
+        "object_entity_id": "component:react-documentation",
+        "relation_type": null,
+        "content": "Gabssnake suggests there should be a notice in the React documentation about the wrapping requirement.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2014-12-01T21:48:50Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.314081",
+        "updated_at": "2026-03-08T15:01:58.314081",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 421,
+            "claim_id": "claim:feature_request:person:gabssnake:b803cf2a",
+            "source_id": "github-comment-65140776",
+            "source_type": "comment",
+            "excerpt": "I feel like there should be a notice somewhere, maybe I missed it ?",
+            "url": "https://github.com/facebook/react/issues/2127",
+            "timestamp": "2014-09-02T00:58:45Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          },
+          {
+            "id": 422,
+            "claim_id": "claim:feature_request:person:gabssnake:b803cf2a",
+            "source_id": "github-comment-65144604",
+            "source_type": "comment",
+            "excerpt": "Well, I meant a notice in the React documentation.",
+            "url": "https://github.com/facebook/react/issues/2127",
+            "timestamp": "2014-09-02T00:58:45Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:feature_request:person:dmitrif:c89638bc",
+        "claim_type": "feature_request",
+        "subject_entity_id": "person:dmitrif",
+        "object_entity_id": "release:react-16",
+        "relation_type": null,
+        "content": "dmitrif asks for suggestions on how to make `electrode-react-ssr-caching` work with React v16.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2017-07-26T20:32:54Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.308865",
+        "updated_at": "2026-03-08T15:01:58.308865",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 171,
+            "claim_id": "claim:feature_request:person:dmitrif:c89638bc",
+            "source_id": "github-comment-318173883",
+            "source_type": "comment",
+            "excerpt": "Any suggestions as to how to make it work with v16?",
+            "url": "https://github.com/facebook/react/issues/10294",
+            "timestamp": "2017-07-26T20:05:32Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:decision:team:react-maintainers:7d4a21b9",
+        "claim_type": "decision",
+        "subject_entity_id": "team:react-maintainers",
+        "object_entity_id": "feature:fragment-api",
+        "relation_type": null,
+        "content": "The feature to desugar to `[div, div]` is hard, somewhat controversial, and won't be implemented in the near future.",
+        "confidence": "high",
+        "temporal_status": "historical",
+        "valid_from": "2014-09-02T01:38:47Z",
+        "valid_until": "2014-09-02T18:33:06Z",
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.313650",
+        "updated_at": "2026-03-08T15:01:58.313650",
+        "superseded_by": "claim:decision:team:react-maintainers:30503d2e",
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 399,
+            "claim_id": "claim:decision:team:react-maintainers:7d4a21b9",
+            "source_id": "github-comment-54101514",
+            "source_type": "comment",
+            "excerpt": "This is hard, somewhat controversial and won't be implemented in a near future.",
+            "url": "https://github.com/facebook/react/issues/2127",
+            "timestamp": "2014-09-02T00:58:45Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:assignment:person:gabegreenberg:daab3210",
+        "claim_type": "assignment",
+        "subject_entity_id": "person:gabegreenberg",
+        "object_entity_id": "repository:facebook/react-11940",
+        "relation_type": "authored",
+        "content": "gabegreenberg authored issue #11940.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2017-12-31T22:06:22Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.306826",
+        "updated_at": "2026-03-08T15:01:58.306826",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 93,
+            "claim_id": "claim:assignment:person:gabegreenberg:daab3210",
+            "source_id": "github-issue-facebook/react-11940",
+            "source_type": "issue",
+            "excerpt": "Author: gabegreenberg",
+            "url": "https://github.com/facebook/react/issues/11940",
+            "timestamp": "2017-12-31T22:06:22Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      }
+    ],
+    "evidence_snippets": [
+      {
+        "claim_id": "claim:agreement:person:arthurdenner:b330646c",
+        "claim_content": "arthurdenner thanked all open-source contributors.",
+        "source_id": "github-comment-354625851",
+        "excerpt": "Thank you! Not only the React team, but to all the open-source contributors. \ud83c\udf89\ud83d\udc93",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:feature_request:person:gabssnake:b803cf2a",
+        "claim_content": "Gabssnake suggests there should be a notice in the React documentation about the wrapping requirement.",
+        "source_id": "github-comment-65140776",
+        "excerpt": "I feel like there should be a notice somewhere, maybe I missed it ?",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:feature_request:person:gabssnake:b803cf2a",
+        "claim_content": "Gabssnake suggests there should be a notice in the React documentation about the wrapping requirement.",
+        "source_id": "github-comment-65144604",
+        "excerpt": "Well, I meant a notice in the React documentation.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:feature_request:person:dmitrif:c89638bc",
+        "claim_content": "dmitrif asks for suggestions on how to make `electrode-react-ssr-caching` work with React v16.",
+        "source_id": "github-comment-318173883",
+        "excerpt": "Any suggestions as to how to make it work with v16?",
+        "url": "https://github.com/facebook/react/issues/10294",
+        "timestamp": "2017-07-26T20:05:32Z"
+      },
+      {
+        "claim_id": "claim:decision:team:react-maintainers:7d4a21b9",
+        "claim_content": "The feature to desugar to `[div, div]` is hard, somewhat controversial, and won't be implemented in the near future.",
+        "source_id": "github-comment-54101514",
+        "excerpt": "This is hard, somewhat controversial and won't be implemented in a near future.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:assignment:person:gabegreenberg:daab3210",
+        "claim_content": "gabegreenberg authored issue #11940.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "Author: gabegreenberg",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:decision:team:react-maintainers:30503d2e",
+        "claim_content": "The fragment API will probably not be supported short term.",
+        "source_id": "github-comment-54196748",
+        "excerpt": "Hopefully, we'll be able to support it sometime in the future but probably not short term.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:proposal:person:gabegreenberg:ccd34f3e",
+        "claim_content": "gabegreenberg invited the React community to reply to the thread with 'thank you' comments to the team at Facebook.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "We\u2019d like to invite the React community to reply to this thread with your own \u201cthank you\u201d comments to the team at Facebook.",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:team:react-team:f5fb7a77",
+        "claim_content": "The React team has mostly been focused on fundamental improvements to React.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "This year, the React team has mostly been focused on [fundamental improvements to React](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html).",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:person:gabegreenberg:91403df5",
+        "claim_content": "gabegreenberg is part of the Reactiflux community.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "On behalf of the Reactiflux community:\n@gabegreenberg",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:person:kyleshevlin:9383adda",
+        "claim_content": "kyleshevlin is part of the Reactiflux community.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "@kyleshevlin",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      }
+    ],
+    "conflicts": [
+      {
+        "subject": "team:react-maintainers",
+        "claim_type": "decision",
+        "current": "The fragment API will probably not be supported short term.",
+        "historical": "The feature to desugar to `[div, div]` is hard, somewhat controversial, and won't be implemented in the near future."
+      }
+    ],
+    "summary": "Found 5 relevant entities: Open-Source Contributors, React maintainers, dmitrif, gabegreenberg, React documentation. Retrieved 5 claims with 11 evidence snippets. Detected 1 conflicting claim(s).",
+    "generated_at": "2026-03-08T15:02:13.553829"
+  },
+  {
+    "question": "What bugs have been reported and resolved?",
+    "entities": [
+      {
+        "id": "bug:countless-bugs",
+        "name": "Countless Bugs",
+        "entity_type": "bug",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303291",
+        "updated_at": "2026-03-08T15:01:58.303291",
+        "relevance_score": 2.202249526977539
+      },
+      {
+        "id": "feature:doeshavependingpassiveeffects",
+        "name": "doesHavePendingPassiveEffects",
+        "entity_type": "feature",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304855",
+        "updated_at": "2026-03-08T15:01:58.304855",
+        "relevance_score": 1.5
+      },
+      {
+        "id": "bug:bug-7179",
+        "name": "Bug 7179",
+        "entity_type": "bug",
+        "aliases": [],
+        "properties": {
+          "github_issue_id": "7179"
+        },
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304089",
+        "updated_at": "2026-03-08T15:01:58.304089",
+        "relevance_score": 0.5303207635879517
+      },
+      {
+        "id": "bug:bug-7328",
+        "name": "Bug 7328",
+        "entity_type": "bug",
+        "aliases": [],
+        "properties": {
+          "github_issue_id": "7328"
+        },
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304106",
+        "updated_at": "2026-03-08T15:01:58.304106",
+        "relevance_score": 0.5270175933837891
+      },
+      {
+        "id": "bug:bug-11881",
+        "name": "Bug 11881",
+        "entity_type": "bug",
+        "aliases": [],
+        "properties": {
+          "github_issue_id": "11881"
+        },
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304126",
+        "updated_at": "2026-03-08T15:01:58.304126",
+        "relevance_score": 0.5201255083084106
+      }
+    ],
+    "claims": [
+      {
+        "id": "claim:technical_fact:repository:facebook/react-20463:3b700668",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "repository:facebook/react-20463",
+        "object_entity_id": null,
+        "relation_type": null,
+        "content": "Issue 20463 has known bugs in its current state.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2020-12-15T13:58:21Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.310856",
+        "updated_at": "2026-03-08T15:01:58.310856",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 276,
+            "claim_id": "claim:technical_fact:repository:facebook/react-20463:3b700668",
+            "source_id": "github-comment-745302277",
+            "source_type": "comment",
+            "excerpt": "since the current state has known bugs.",
+            "url": "https://github.com/facebook/react/pull/20463",
+            "timestamp": "2020-12-14T22:28:44Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.6167082190513611
+      },
+      {
+        "id": "claim:resolution:component:react-native:329b2e17",
+        "claim_type": "resolution",
+        "subject_entity_id": "component:react-native",
+        "object_entity_id": "bug:countless-bugs",
+        "relation_type": "fixes_bug",
+        "content": "React Native fixed countless bugs.",
+        "confidence": "high",
+        "temporal_status": "historical",
+        "valid_from": "2017-12-31T22:06:22Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.306934",
+        "updated_at": "2026-03-08T15:01:58.306934",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 98,
+            "claim_id": "claim:resolution:component:react-native:329b2e17",
+            "source_id": "github-issue-facebook/react-11940",
+            "source_type": "issue",
+            "excerpt": "fixing countless bugs",
+            "url": "https://github.com/facebook/react/issues/11940",
+            "timestamp": "2017-12-31T22:06:22Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5393771529197693
+      },
+      {
+        "id": "claim:technical_fact:bug:known-problems-in-react-dom:9c1e6f47",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "bug:known-problems-in-react-dom",
+        "object_entity_id": null,
+        "relation_type": null,
+        "content": "There are quite a few known problems, and some of them are hard or impossible to fix without bigger internal changes.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2018-08-31T19:45:53Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.309289",
+        "updated_at": "2026-03-08T15:01:58.309289",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 194,
+            "claim_id": "claim:technical_fact:bug:known-problems-in-react-dom:9c1e6f47",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "There are quite a few [known problems](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22Type%3A+Bug%22+label%3A%22Component%3A+DOM%22), and some of them are hard or impossible to fix without bigger internal changes.",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5208714008331299
+      },
+      {
+        "id": "claim:status_change:repository:facebook/react:7491962a",
+        "claim_type": "status_change",
+        "subject_entity_id": "repository:facebook-react",
+        "object_entity_id": null,
+        "relation_type": null,
+        "content": "Feedback for issue #14853 has been addressed.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2019-03-04T12:39:44Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.312062",
+        "updated_at": "2026-03-08T15:01:58.312062",
+        "superseded_by": null,
+        "merged_from": [
+          "claim:status_change:repository:facebook/react:2cb45ea7"
+        ],
+        "evidence": [
+          {
+            "id": 342,
+            "claim_id": "claim:status_change:repository:facebook/react:7491962a",
+            "source_id": "github-comment-469238350",
+            "source_type": "comment",
+            "excerpt": "I've addressed the feedback",
+            "url": "https://github.com/facebook/react/pull/14853",
+            "timestamp": "2019-02-14T15:27:09Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          },
+          {
+            "id": 343,
+            "claim_id": "claim:status_change:repository:facebook/react:7491962a",
+            "source_id": "github-comment-473366021",
+            "source_type": "comment",
+            "excerpt": "addressed all the feedback I could.",
+            "url": "https://github.com/facebook/react/pull/14853",
+            "timestamp": "2019-02-14T15:27:09Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.50215083360672
+      },
+      {
+        "id": "claim:technical_fact:bug:bug-7328:b7ab3ac2",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "bug:bug-7328",
+        "object_entity_id": "feature:stop-reflecting-input-values-in-value-attribute",
+        "relation_type": null,
+        "content": "Bug 7328 is a fallout from the `value` attribute reflection change.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2018-08-31T19:45:53Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.309578",
+        "updated_at": "2026-03-08T15:01:58.309578",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 210,
+            "claim_id": "claim:technical_fact:bug:bug-7328:b7ab3ac2",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "Some of the fallout from this change includes: https://github.com/facebook/react/issues/7328",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      }
+    ],
+    "evidence_snippets": [
+      {
+        "claim_id": "claim:technical_fact:repository:facebook/react-20463:3b700668",
+        "claim_content": "Issue 20463 has known bugs in its current state.",
+        "source_id": "github-comment-745302277",
+        "excerpt": "since the current state has known bugs.",
+        "url": "https://github.com/facebook/react/pull/20463",
+        "timestamp": "2020-12-14T22:28:44Z"
+      },
+      {
+        "claim_id": "claim:resolution:component:react-native:329b2e17",
+        "claim_content": "React Native fixed countless bugs.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "fixing countless bugs",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:bug:known-problems-in-react-dom:9c1e6f47",
+        "claim_content": "There are quite a few known problems, and some of them are hard or impossible to fix without bigger internal changes.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "There are quite a few [known problems](https://github.com/facebook/react/issues?q=is%3Aopen+is%3Aissue+label%3A%22Type%3A+Bug%22+label%3A%22Component%3A+DOM%22), and some of them are hard or impossible to fix without bigger internal changes.",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:status_change:repository:facebook/react:7491962a",
+        "claim_content": "Feedback for issue #14853 has been addressed.",
+        "source_id": "github-comment-469238350",
+        "excerpt": "I've addressed the feedback",
+        "url": "https://github.com/facebook/react/pull/14853",
+        "timestamp": "2019-02-14T15:27:09Z"
+      },
+      {
+        "claim_id": "claim:status_change:repository:facebook/react:7491962a",
+        "claim_content": "Feedback for issue #14853 has been addressed.",
+        "source_id": "github-comment-473366021",
+        "excerpt": "addressed all the feedback I could.",
+        "url": "https://github.com/facebook/react/pull/14853",
+        "timestamp": "2019-02-14T15:27:09Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:bug:bug-7328:b7ab3ac2",
+        "claim_content": "Bug 7328 is a fallout from the `value` attribute reflection change.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "Some of the fallout from this change includes: https://github.com/facebook/react/issues/7328",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:await act(async () => ...):c8ac3578",
+        "claim_content": "The `act(...)` implementation passes `doesHavePendingPassiveEffects` as an argument to the internal callback.",
+        "source_id": "github-comment-473498286",
+        "excerpt": "Instead of exporting another function for 'doesHavePendingPassiveEffects', I pass it as an argument to the internal callback",
+        "url": "https://github.com/facebook/react/pull/14853",
+        "timestamp": "2019-02-14T15:27:09Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:bug:bug-11881:9c82436f",
+        "claim_content": "Bug 11881 is a fallout from the `value` attribute reflection change.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "Some of the fallout from this change includes: https://github.com/facebook/react/issues/11881",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:bug:bug-7179:ee48fb51",
+        "claim_content": "Bug 7179 is a fallout from the `value` attribute reflection change.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "Some of the fallout from this change includes: https://github.com/facebook/react/issues/7179",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:resolution:bug:missing-early-logged-warnings:1484d059",
+        "claim_content": "The issue causing missing early logged warnings was fixed.",
+        "source_id": "github-issue-facebook/react-20463",
+        "excerpt": "- [x] ~~Fix the issue causing us to miss early logged warnings~~",
+        "url": "https://github.com/facebook/react/pull/20463",
+        "timestamp": "2020-12-14T22:28:44Z"
+      },
+      {
+        "claim_id": "claim:status_change:repository:facebook/react:71be07e2",
+        "claim_content": "Issue #14853 is considered ready for a review.",
+        "source_id": "github-comment-473014184",
+        "excerpt": "I chatted with @acdlite with some clarifications and think this is ready for a review.",
+        "url": "https://github.com/facebook/react/pull/14853",
+        "timestamp": "2019-02-14T15:27:09Z"
+      }
+    ],
+    "conflicts": [],
+    "summary": "Found 5 relevant entities: Countless Bugs, doesHavePendingPassiveEffects, Bug 7179, Bug 7328, Bug 11881. Retrieved 5 claims with 11 evidence snippets.",
+    "generated_at": "2026-03-08T15:02:13.673758"
+  },
+  {
+    "question": "What decisions were made about concurrent rendering?",
+    "entities": [
+      {
+        "id": "feature:concurrent-mode",
+        "name": "concurrent mode",
+        "entity_type": "feature",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304688",
+        "updated_at": "2026-03-08T15:01:58.304688",
+        "relevance_score": 0.48249465227127075
+      },
+      {
+        "id": "feature:asynchronous-rendering",
+        "name": "Asynchronous rendering",
+        "entity_type": "feature",
+        "aliases": [
+          "async mode"
+        ],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303738",
+        "updated_at": "2026-03-08T15:01:58.303738",
+        "relevance_score": 0.4212629795074463
+      },
+      {
+        "id": "component:server-renderer",
+        "name": "Server renderer",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303847",
+        "updated_at": "2026-03-08T15:01:58.303847",
+        "relevance_score": 0.33705589175224304
+      },
+      {
+        "id": "component:server-rendering-test-suite",
+        "name": "server rendering test suite",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.305069",
+        "updated_at": "2026-03-08T15:01:58.305069",
+        "relevance_score": 0.3122221529483795
+      },
+      {
+        "id": "feature:fragment-api",
+        "name": "fragment API",
+        "entity_type": "feature",
+        "aliases": [
+          "returning multiple components from render",
+          "multiple components from render"
+        ],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.305159",
+        "updated_at": "2026-03-08T15:01:58.305159",
+        "relevance_score": 0.30270007252693176
+      }
+    ],
+    "claims": [
+      {
+        "id": "claim:technical_fact:feature:react-core-rewrite-fiber:59aedde8",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "feature:react-core-rewrite-fiber",
+        "object_entity_id": "feature:asynchronous-rendering",
+        "relation_type": "implements_feature",
+        "content": "The rewrite aimed to enable experimenting with asynchronous rendering of components for better perceived performance.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2017-07-26T20:05:32Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.308609",
+        "updated_at": "2026-03-08T15:01:58.308609",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 160,
+            "claim_id": "claim:technical_fact:feature:react-core-rewrite-fiber:59aedde8",
+            "source_id": "github-issue-facebook/react-10294",
+            "source_type": "issue",
+            "excerpt": "Enable us to start experimenting with asynchronous rendering of components for better perceived performance.",
+            "url": "https://github.com/facebook/react/issues/10294",
+            "timestamp": "2017-07-26T20:05:32Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5491334795951843
+      },
+      {
+        "id": "claim:status_change:feature:asynchronous-rendering:f61bf7e7",
+        "claim_type": "status_change",
+        "subject_entity_id": "feature:asynchronous-rendering",
+        "object_entity_id": null,
+        "relation_type": null,
+        "content": "Asynchronous rendering is still being experimented on internally.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2017-07-26T21:12:33Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.308990",
+        "updated_at": "2026-03-08T15:01:58.308990",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 177,
+            "claim_id": "claim:status_change:feature:asynchronous-rendering:f61bf7e7",
+            "source_id": "github-comment-318184274",
+            "source_type": "comment",
+            "excerpt": "We're still experimenting on it internally.",
+            "url": "https://github.com/facebook/react/issues/10294",
+            "timestamp": "2017-07-26T20:05:32Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5429795980453491
+      },
+      {
+        "id": "claim:technical_fact:person:syranide:1db05ee8",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "person:syranide",
+        "object_entity_id": "feature:fragment-api",
+        "relation_type": null,
+        "content": "Syranide sees hidden dangers in allowing composite components to return multiple components.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2014-09-02T18:14:32Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.313773",
+        "updated_at": "2026-03-08T15:01:58.313773",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 405,
+            "claim_id": "claim:technical_fact:person:syranide:1db05ee8",
+            "source_id": "github-comment-54194013",
+            "source_type": "comment",
+            "excerpt": "I see a lot of hidden dangers in allowing a composite components to return multiple components",
+            "url": "https://github.com/facebook/react/issues/2127",
+            "timestamp": "2014-09-02T00:58:45Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:decision:person:sebmarkbage:391eeab7",
+        "claim_type": "decision",
+        "subject_entity_id": "person:sebmarkbage",
+        "object_entity_id": "feature:fragment-api",
+        "relation_type": null,
+        "content": "Sebmarkbage states that implicit syntax for multiple components will probably never be allowed.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2014-09-02T18:33:06Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.313885",
+        "updated_at": "2026-03-08T15:01:58.313885",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 411,
+            "claim_id": "claim:decision:person:sebmarkbage:391eeab7",
+            "source_id": "github-comment-54196748",
+            "source_type": "comment",
+            "excerpt": "We will probably never allow that syntax implicitly.",
+            "url": "https://github.com/facebook/react/issues/2127",
+            "timestamp": "2014-09-02T00:58:45Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      },
+      {
+        "id": "claim:technical_fact:feature:fragment-api:312ff7a1",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "feature:fragment-api",
+        "object_entity_id": "component:react",
+        "relation_type": "part_of",
+        "content": "The fragment API is a hard problem with React's current architecture.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2014-09-02T00:58:45Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.313550",
+        "updated_at": "2026-03-08T15:01:58.313550",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 394,
+            "claim_id": "claim:technical_fact:feature:fragment-api:312ff7a1",
+            "source_id": "github-issue-facebook/react-2127",
+            "source_type": "issue",
+            "excerpt": "We want this too but it is a _hard problem_ with our current architecture.",
+            "url": "https://github.com/facebook/react/issues/2127",
+            "timestamp": "2014-09-02T00:58:45Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5
+      }
+    ],
+    "evidence_snippets": [
+      {
+        "claim_id": "claim:technical_fact:feature:react-core-rewrite-fiber:59aedde8",
+        "claim_content": "The rewrite aimed to enable experimenting with asynchronous rendering of components for better perceived performance.",
+        "source_id": "github-issue-facebook/react-10294",
+        "excerpt": "Enable us to start experimenting with asynchronous rendering of components for better perceived performance.",
+        "url": "https://github.com/facebook/react/issues/10294",
+        "timestamp": "2017-07-26T20:05:32Z"
+      },
+      {
+        "claim_id": "claim:status_change:feature:asynchronous-rendering:f61bf7e7",
+        "claim_content": "Asynchronous rendering is still being experimented on internally.",
+        "source_id": "github-comment-318184274",
+        "excerpt": "We're still experimenting on it internally.",
+        "url": "https://github.com/facebook/react/issues/10294",
+        "timestamp": "2017-07-26T20:05:32Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:person:syranide:1db05ee8",
+        "claim_content": "Syranide sees hidden dangers in allowing composite components to return multiple components.",
+        "source_id": "github-comment-54194013",
+        "excerpt": "I see a lot of hidden dangers in allowing a composite components to return multiple components",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:decision:person:sebmarkbage:391eeab7",
+        "claim_content": "Sebmarkbage states that implicit syntax for multiple components will probably never be allowed.",
+        "source_id": "github-comment-54196748",
+        "excerpt": "We will probably never allow that syntax implicitly.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:fragment-api:312ff7a1",
+        "claim_content": "The fragment API is a hard problem with React's current architecture.",
+        "source_id": "github-issue-facebook/react-2127",
+        "excerpt": "We want this too but it is a _hard problem_ with our current architecture.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:fragment-api:849d41f3",
+        "claim_content": "Even explicit wrappers for returning multiple components do not work currently.",
+        "source_id": "github-comment-54196748",
+        "excerpt": "However, even this doesn't work.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:fragment-api:e9b3b6c1",
+        "claim_content": "The fragment API has not been implemented yet.",
+        "source_id": "github-comment-54112761",
+        "excerpt": "and hasn't been done yet.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:fragment-api:169bc730",
+        "claim_content": "Allowing multiple components breaks intuitive assumptions.",
+        "source_id": "github-comment-54194013",
+        "excerpt": "it breaks a lot of intuitive assumptions",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:feature_request:person:getcontented:c601f31e",
+        "claim_content": "GetContented wishes a component could output a node (node-list or fragment) instead of an element.",
+        "source_id": "github-comment-71862049",
+        "excerpt": "It'd be kind of nice if a component could output a node (therefore node-list or fragment) instead of an element.",
+        "url": "https://github.com/facebook/react/issues/2127",
+        "timestamp": "2014-09-02T00:58:45Z"
+      },
+      {
+        "claim_id": "claim:proposal:release:react-16.x:bf3a4d09",
+        "claim_content": "An opt-in to the async mode will be introduced later during React 16.x.",
+        "source_id": "github-issue-facebook/react-10294",
+        "excerpt": "We will introduce an opt-in to the async mode later during React 16.x.",
+        "url": "https://github.com/facebook/react/issues/10294",
+        "timestamp": "2017-07-26T20:05:32Z"
+      }
+    ],
+    "conflicts": [],
+    "summary": "Found 5 relevant entities: concurrent mode, Asynchronous rendering, Server renderer, server rendering test suite, fragment API. Retrieved 5 claims with 10 evidence snippets.",
+    "generated_at": "2026-03-08T15:02:13.782259"
+  },
+  {
+    "question": "What components does React have?",
+    "entities": [
+      {
+        "id": "component:react",
+        "name": "React",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": []
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react",
+            "merged_id": "component:react",
+            "merged_name": "React",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react",
+              "name": "React",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": [
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": []
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "action": "entity_merge",
+                  "canonical_id": "component:react",
+                  "merged_id": "component:react",
+                  "merged_name": "React",
+                  "method": "exact_id_match",
+                  "canonical_state_before": {
+                    "id": "component:react",
+                    "name": "React",
+                    "entity_type": "component",
+                    "aliases": [],
+                    "properties": {},
+                    "first_seen": "",
+                    "last_seen": "",
+                    "merge_history": [
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": []
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "action": "entity_merge",
+                        "canonical_id": "component:react",
+                        "merged_id": "component:react",
+                        "merged_name": "React",
+                        "method": "exact_id_match",
+                        "canonical_state_before": {
+                          "id": "component:react",
+                          "name": "React",
+                          "entity_type": "component",
+                          "aliases": [],
+                          "properties": {},
+                          "first_seen": "",
+                          "last_seen": "",
+                          "merge_history": [
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": []
+                              }
+                            },
+                            {
+                              "action": "entity_merge",
+                              "canonical_id": "component:react",
+                              "merged_id": "component:react",
+                              "merged_name": "React",
+                              "method": "exact_id_match",
+                              "canonical_state_before": {
+                                "id": "component:react",
+                                "name": "React",
+                                "entity_type": "component",
+                                "aliases": [],
+                                "properties": {},
+                                "first_seen": "",
+                                "last_seen": "",
+                                "merge_history": [
+                                  {
+                                    "action": "entity_merge",
+                                    "canonical_id": "component:react",
+                                    "merged_id": "component:react",
+                                    "merged_name": "React",
+                                    "method": "exact_id_match",
+                                    "canonical_state_before": {
+                                      "id": "component:react",
+                                      "name": "React",
+                                      "entity_type": "component",
+                                      "aliases": [],
+                                      "properties": {},
+                                      "first_seen": "",
+                                      "last_seen": "",
+                                      "merge_history": []
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "created_at": "2026-03-08T15:01:58.301920",
+        "updated_at": "2026-03-08T15:01:58.301920",
+        "relevance_score": 2.3041502237319946
+      },
+      {
+        "id": "component:reactdomcomponent",
+        "name": "ReactDOMComponent",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.304915",
+        "updated_at": "2026-03-08T15:01:58.304915",
+        "relevance_score": 2.204272985458374
+      },
+      {
+        "id": "component:react-documentation",
+        "name": "React documentation",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.305249",
+        "updated_at": "2026-03-08T15:01:58.305249",
+        "relevance_score": 2.1965067386627197
+      },
+      {
+        "id": "component:react-native",
+        "name": "React Native",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [
+          {
+            "action": "entity_merge",
+            "canonical_id": "component:react-native",
+            "merged_id": "component:react-native",
+            "merged_name": "React Native",
+            "method": "exact_id_match",
+            "canonical_state_before": {
+              "id": "component:react-native",
+              "name": "React Native",
+              "entity_type": "component",
+              "aliases": [],
+              "properties": {},
+              "first_seen": "",
+              "last_seen": "",
+              "merge_history": []
+            }
+          }
+        ],
+        "created_at": "2026-03-08T15:01:58.303267",
+        "updated_at": "2026-03-08T15:01:58.303267",
+        "relevance_score": 2.1510093212127686
+      },
+      {
+        "id": "component:react-scripts",
+        "name": "react-scripts",
+        "entity_type": "component",
+        "aliases": [],
+        "properties": {},
+        "first_seen": "",
+        "last_seen": "",
+        "merge_history": [],
+        "created_at": "2026-03-08T15:01:58.303974",
+        "updated_at": "2026-03-08T15:01:58.303974",
+        "relevance_score": 2.1338002681732178
+      }
+    ],
+    "claims": [
+      {
+        "id": "claim:technical_fact:team:react-team:f5fb7a77",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "team:react-team",
+        "object_entity_id": "feature:fundamental-improvements-to-react",
+        "relation_type": null,
+        "content": "The React team has mostly been focused on fundamental improvements to React.",
+        "confidence": "high",
+        "temporal_status": "historical",
+        "valid_from": "2018-08-31T19:45:53Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.309271",
+        "updated_at": "2026-03-08T15:01:58.309271",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 193,
+            "claim_id": "claim:technical_fact:team:react-team:f5fb7a77",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "This year, the React team has mostly been focused on [fundamental improvements to React](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html).",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.6382790803909302
+      },
+      {
+        "id": "claim:proposal:feature:react-fire:012a991e",
+        "claim_type": "proposal",
+        "subject_entity_id": "feature:react-fire",
+        "object_entity_id": "component:react-dom",
+        "relation_type": null,
+        "content": "React Fire is an effort to modernize React DOM.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2018-08-31T19:45:53Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.309318",
+        "updated_at": "2026-03-08T15:01:58.309318",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 196,
+            "claim_id": "claim:proposal:feature:react-fire:012a991e",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "We're calling this effort \"React Fire\".",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          },
+          {
+            "id": 197,
+            "claim_id": "claim:proposal:feature:react-fire:012a991e",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "**React Fire** is an effort to modernize React DOM.",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5919555425643921
+      },
+      {
+        "id": "claim:technical_fact:feature:react-fire:c39b2d5e",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "feature:react-fire",
+        "object_entity_id": "component:react",
+        "relation_type": null,
+        "content": "The goal of React Fire is to make React smaller and faster.",
+        "confidence": "high",
+        "temporal_status": "current",
+        "valid_from": "2018-08-31T19:45:53Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.309379",
+        "updated_at": "2026-03-08T15:01:58.309379",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 200,
+            "claim_id": "claim:technical_fact:feature:react-fire:c39b2d5e",
+            "source_id": "github-issue-facebook/react-13525",
+            "source_type": "issue",
+            "excerpt": "Our goal is to make React better aligned with how the DOM works, revisit some controversial past decisions that led to problems, and make React smaller and faster.",
+            "url": "https://github.com/facebook/react/issues/13525",
+            "timestamp": "2018-08-31T19:45:53Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5633096098899841
+      },
+      {
+        "id": "claim:technical_fact:component:react:cd644ee8",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "component:react",
+        "object_entity_id": "person:jb3",
+        "relation_type": "related_to",
+        "content": "React was one of the first JavaScript frameworks jb3 looked at.",
+        "confidence": "high",
+        "temporal_status": "historical",
+        "valid_from": "2017-12-31T22:14:04Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.307851",
+        "updated_at": "2026-03-08T15:01:58.307851",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 134,
+            "claim_id": "claim:technical_fact:component:react:cd644ee8",
+            "source_id": "github-comment-354625879",
+            "source_type": "comment",
+            "excerpt": "React was one of the first JavaScript frameworks I looked at!",
+            "url": "https://github.com/facebook/react/issues/11940",
+            "timestamp": "2017-12-31T22:06:22Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5518198609352112
+      },
+      {
+        "id": "claim:technical_fact:component:react:bbd46874",
+        "claim_type": "technical_fact",
+        "subject_entity_id": "component:react",
+        "object_entity_id": null,
+        "relation_type": null,
+        "content": "React was relicensed.",
+        "confidence": "high",
+        "temporal_status": "historical",
+        "valid_from": "2017-12-31T22:06:22Z",
+        "valid_until": null,
+        "extraction_version": "v1.0",
+        "created_at": "2026-03-08T15:01:58.307117",
+        "updated_at": "2026-03-08T15:01:58.307117",
+        "superseded_by": null,
+        "merged_from": [],
+        "evidence": [
+          {
+            "id": 109,
+            "claim_id": "claim:technical_fact:component:react:bbd46874",
+            "source_id": "github-issue-facebook/react-11940",
+            "source_type": "issue",
+            "excerpt": "relicensing-react-jest-flow-and-immutable-js",
+            "url": "https://github.com/facebook/react/issues/11940",
+            "timestamp": "2017-12-31T22:06:22Z",
+            "char_offset_start": null,
+            "char_offset_end": null
+          }
+        ],
+        "relevance_score": 0.5500507354736328
+      }
+    ],
+    "evidence_snippets": [
+      {
+        "claim_id": "claim:technical_fact:team:react-team:f5fb7a77",
+        "claim_content": "The React team has mostly been focused on fundamental improvements to React.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "This year, the React team has mostly been focused on [fundamental improvements to React](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html).",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:proposal:feature:react-fire:012a991e",
+        "claim_content": "React Fire is an effort to modernize React DOM.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "We're calling this effort \"React Fire\".",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:proposal:feature:react-fire:012a991e",
+        "claim_content": "React Fire is an effort to modernize React DOM.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "**React Fire** is an effort to modernize React DOM.",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:react-fire:c39b2d5e",
+        "claim_content": "The goal of React Fire is to make React smaller and faster.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "Our goal is to make React better aligned with how the DOM works, revisit some controversial past decisions that led to problems, and make React smaller and faster.",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:component:react:cd644ee8",
+        "claim_content": "React was one of the first JavaScript frameworks jb3 looked at.",
+        "source_id": "github-comment-354625879",
+        "excerpt": "React was one of the first JavaScript frameworks I looked at!",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:component:react:bbd46874",
+        "claim_content": "React was relicensed.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "relicensing-react-jest-flow-and-immutable-js",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:react-fire:b8596fbb",
+        "claim_content": "Some changes in React Fire will be breaking.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "We want to ship this set of changes in a future React major release because some of them will unfortunately be breaking.",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:release:react-16:ee0c35fe",
+        "claim_content": "React 16 is the first release that ships with a rewrite of the React core (previously codenamed \u201cFiber\u201d).",
+        "source_id": "github-issue-facebook/react-10294",
+        "excerpt": "React 16 is the first release that ships with a rewrite of the React core (previously codenamed \u201cFiber\u201d).",
+        "url": "https://github.com/facebook/react/issues/10294",
+        "timestamp": "2017-07-26T20:05:32Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:person:guillermo-rauch:bf2089fa",
+        "claim_content": "Guillermo Rauch believes React is a good idea.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "Guillermo Rauch recently tweeted, \u201cAs 2017 wraps up I believe more than ever that React is such a good idea that we will spend the rest of the decade continuing to explore its implications and applications.\u201d",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      },
+      {
+        "claim_id": "claim:technical_fact:feature:react-fire:c622f612",
+        "claim_content": "The goal of React Fire is to make React better aligned with how the DOM works.",
+        "source_id": "github-issue-facebook/react-13525",
+        "excerpt": "Our goal is to make React better aligned with how the DOM works, revisit some controversial past decisions that led to problems, and make React smaller and faster.",
+        "url": "https://github.com/facebook/react/issues/13525",
+        "timestamp": "2018-08-31T19:45:53Z"
+      },
+      {
+        "claim_id": "claim:status_change:release:react-16:6cf561ca",
+        "claim_content": "React 16 was released in September 2017.",
+        "source_id": "github-issue-facebook/react-11940",
+        "excerpt": "React 16 was released in September",
+        "url": "https://github.com/facebook/react/issues/11940",
+        "timestamp": "2017-12-31T22:06:22Z"
+      }
+    ],
+    "conflicts": [],
+    "summary": "Found 5 relevant entities: React, ReactDOMComponent, React documentation, React Native, react-scripts. Retrieved 5 claims with 11 evidence snippets.",
+    "generated_at": "2026-03-08T15:02:13.892868"
+  }
+]
