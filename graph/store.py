@@ -22,7 +22,7 @@ class MemoryStore:
 
     def __init__(self, db_path: Path = None):
         self.db_path = db_path or config.DB_PATH
-        self.conn = sqlite3.connect(str(self.db_path))
+        self.conn = sqlite3.connect(str(self.db_path), check_same_thread=False)
         self.conn.row_factory = sqlite3.Row
         self.conn.execute("PRAGMA journal_mode=WAL")
         self.conn.execute("PRAGMA foreign_keys=ON")
